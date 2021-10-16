@@ -30,6 +30,9 @@ body{
   color:#F88E2F;
   background-color: #121212;
   stroke: solid #F88E2F;
+  outline:none;
+  border:solid;
+  border-color: #F88E2F;
 }
 .card-image{
   height: 200px;
